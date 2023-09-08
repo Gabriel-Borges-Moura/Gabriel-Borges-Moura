@@ -1,5 +1,5 @@
 - 👋 Olá, meu nomne é Gabriel
-- 🌱 atualemnte estou estudando HTML
+- 🌱 atualmente estou estudando HTML
 - 💞️ ainda nao estou trabalhando na área de tecnologia
 - 📫 Me chame no Instagram @borges_shh 
 
