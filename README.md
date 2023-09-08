@@ -1,7 +1,7 @@
 - 👋 Olá, meu nomne é Gabriel
 - 🌱 atualmente estou estudando HTML
 - ainda nao estou trabalhando na área de tecnologia, mas tenho interesse
-- 📫 Me chame no Instagram @borges_shh 
+- 📫 Me chame no Instagram @borges_shh ou email gborgesmoura@gmail.com
 
 
 <!---
